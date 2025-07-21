@@ -5,9 +5,19 @@ This project replicates the core features and UI of Meesho's homepage and basic 
 
 ---
 
-## 📸 Preview
 
-![Meesho Clone Screenshot](https://user-images.githubusercontent.com/your-github-username/path-to-screenshot.png)
+## 🔍 Preview Screens
+
+### 🏠 Homepage
+![Homepage](images/homepage.png)
+
+### 🛒 Cart Page
+![Cart Page](images/cartpage.png)
+
+### 📝 Signup Page
+![Signup Page](images/signuppage.png)
+
+
 
 ---
 
