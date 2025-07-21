@@ -32,4 +32,34 @@ This project replicates the core features and UI of Meesho's homepage and basic 
 ---
 
 ## 📁 Project Structure
+meesho-clone/
+│
+├── index.html # Main landing page
+├── loginPage.html # Login interface
+├── signUpPage.html # Signup form
+├── productPage.html # Product listing
+├── cart.html # Cart page
+├── scripts/ # JavaScript logic
+├── styles/ # CSS files
+├── assets/ # Images, icons, etc.
+└── README.md # Project overview
+
+
+---
+
+## 👩‍💻 Author
+
+Built with ❤️ by **Gouri Rabgotra**
+
+---
+
+## 🌐 Live Demo  
+**🔗 [Live Site](https://meesho-clone-by-gouri.netlify.app)**  
+
+
+---
+
+## 📌 Note
+
+This project is for **educational purposes** only. All trademarks and copyrights belong to their respective owners.
 
