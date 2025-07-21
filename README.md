@@ -9,14 +9,18 @@ This project replicates the core features and UI of Meesho's homepage and basic 
 ## 🔍 Preview Screens
 
 ### 🏠 Homepage
-![Homepage](https://github.com/gouri-rabgotra21/meesho-clone/blob/main/images/homepage)
+
+<img width="2880" height="1800" alt="homepage" src="https://github.com/user-attachments/assets/abe2d3a7-0589-4c91-b9bf-2ff2a845abfa" />
 
 ### 🛒 Cart Page
-![Cart Page](https://github.com/gouri-rabgotra21/meesho-clone/blob/main/images/cartpage)
+
+
+<img width="2880" height="1800" alt="cartpage" src="https://github.com/user-attachments/assets/c1808822-9eac-4c32-98f4-9d09d88e4dd3" />
 
 ### 📝 Signup Page
-![Signup Page](https://github.com/gouri-rabgotra21/meesho-clone/blob/main/images/signuppage)
 
+
+<img width="2880" height="1800" alt="signuppage" src="https://github.com/user-attachments/assets/1fde4750-d5a2-457c-ac6d-25c0895d9d95" />
 
 
 ---
